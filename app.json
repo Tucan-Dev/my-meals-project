@@ -1,0 +1,28 @@
+{
+  "name": "mymeals",
+  "displayName": "mymeals",
+  "expo": {
+    "name": "My Meals",
+    "slug": "mymeals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.tucandev.mymeals",
+      "buildNumber": "2.0.0"
+    },
+    "android": {
+      "package": "com.tucandev.mymeals",
+      "versionCode": 3,
+      "permissions": []
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F77F00"
+    }
+  }
+}

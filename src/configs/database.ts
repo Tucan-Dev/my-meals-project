@@ -1,0 +1,9 @@
+const DATABASE_NAME = '@mymeals';
+
+const COLLECTION_SHOPPINGLIST = `${DATABASE_NAME}:shoppinglist`;
+const COLLECTION_MEALS= `${DATABASE_NAME}:meals`;
+
+export {
+    COLLECTION_SHOPPINGLIST,
+    COLLECTION_MEALS
+}
